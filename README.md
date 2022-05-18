@@ -68,6 +68,8 @@ The following image shows the application's IndexedDB storage:
 
 ## Deployed Application (Heroku)
 
+
+
 ## GitHub Repository
 
 <https://github.com/downerdm/text-editor>
